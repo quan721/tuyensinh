@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/tuyensinh/static/css/main.e6c13ad2.css",
-    "main.js": "/tuyensinh/static/js/main.a5e22fa2.js",
+    "main.js": "/tuyensinh/static/js/main.efeb1733.js",
     "static/js/453.99182054.chunk.js": "/tuyensinh/static/js/453.99182054.chunk.js",
     "static/media/theme4.jpg": "/tuyensinh/static/media/theme4.a83018bb8ae8cd842dbc.jpg",
     "static/media/theme2.jpg": "/tuyensinh/static/media/theme2.44a0abd47502048e7ed7.jpg",
@@ -10,11 +10,11 @@
     "static/media/theme6.jpg": "/tuyensinh/static/media/theme6.f759c1e687fd60c1ac93.jpg",
     "index.html": "/tuyensinh/index.html",
     "main.e6c13ad2.css.map": "/tuyensinh/static/css/main.e6c13ad2.css.map",
-    "main.a5e22fa2.js.map": "/tuyensinh/static/js/main.a5e22fa2.js.map",
+    "main.efeb1733.js.map": "/tuyensinh/static/js/main.efeb1733.js.map",
     "453.99182054.chunk.js.map": "/tuyensinh/static/js/453.99182054.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.a5e22fa2.js"
+    "static/js/main.efeb1733.js"
   ]
 }
